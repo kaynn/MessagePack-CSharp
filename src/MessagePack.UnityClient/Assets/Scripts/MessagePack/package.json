@@ -8,5 +8,9 @@
         "Serializer"
     ],
     "license": "MIT",
-    "category": "Scripting"
+    "category": "Scripting",
+    "dependencies": {
+        "com.microsoft.unsafe":"7.0.0",
+        "com.microsoft.stringtools":"1.0.0"
+    }
 }
